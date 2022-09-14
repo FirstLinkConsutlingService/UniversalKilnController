@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit MAX31856")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit MAX31856.pretty")(options "")(descr ""))
+)
