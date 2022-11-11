@@ -1,0 +1,44 @@
+PCB statistics report
+=====================
+- Date: 11/9/2022 11:35:02 AM
+- Project: max31856_board
+- Board name: max31856_board
+
+Board
+-----
+- Width: 123.0000 mm
+- Height: 52.0000 mm
+- Area: 6396.0000 sq. mm
+
+Pads
+----
+- Through hole: 15
+- SMD: 49
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 10
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|        | Front Side | Back Side | Total |
+|--------|------------|-----------|-------|
+|THT:    |         4  |        0  |    4  |
+|SMD:    |        15  |        0  |   15  |
+|Total:  |        19  |        0  |   19  |
+|        |            |           |       |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    10 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     9 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 2.5000 mm | 2.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 1.2000 mm | 1.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |

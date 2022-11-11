@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"SOT95P280X145-5N";1;"MIC5225-3.3YM5-TR";;;
+2;"R5,R4,R3";"R_1206_3216Metric_Pad1.30x1.75mm_HandSolder";3;"10K";;;
+3;"C6,C7";"CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder";2;"10uF";;;
+4;"C2,C4,C5";"CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder";3;"0.1uF";;;
+5;"D1,D2,D3";"D_1206_3216Metric_Pad1.42x1.75mm_HandSolder";3;"1N4148";;;
+6;"R1,R2";"R_1206_3216Metric_Pad1.30x1.75mm_HandSolder";2;"100";;;
+7;"C3,C1";"CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder";2;"0.01uF";;;
+8;"J1";"TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal";1;"Screw_Terminal_01x02";;;
+9;"J2";"PinHeader_1x09_P2.54mm_Vertical";1;"Conn_01x09_Male";;;
+10;"U1";"SOP65P640X110-14N";1;"MAX31856MUD+T";;;
